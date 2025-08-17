@@ -1,0 +1,8 @@
+/* Max width */
+
+position: absolute;
+width: 1000px;
+left: calc(50% - 1000px/2 + 27px);
+top: 0px;
+bottom: 42px;
+
